@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/%40BhaviniBhug)
+https://img.shields.io/twitter/follow/BhaviniBhug
+
 
 <!--
 **BhaviniBhugowandeen/BhaviniBhugowandeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
