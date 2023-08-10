@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![image](https://github.com/BhaviniBhugowandeen/BhaviniBhugowandeen/assets/140691887/ffce3fd7-57eb-47bc-a782-158962c5df9a)
 
 <!--
 **BhaviniBhugowandeen/BhaviniBhugowandeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
