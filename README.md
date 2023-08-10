@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Artificial Intelligence](https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif)
+![Artificial_Intelligence](https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
