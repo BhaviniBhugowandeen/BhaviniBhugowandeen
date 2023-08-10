@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![image](https://github.com/BhaviniBhugowandeen/BhaviniBhugowandeen/assets/140691887/ffce3fd7-57eb-47bc-a782-158962c5df9a)
