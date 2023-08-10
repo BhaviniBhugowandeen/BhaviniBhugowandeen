@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://img.shields.io/badge/Artificial%20Interlligence%20-%20Violet
 ![Twitter Follow](https://img.shields.io/twitter/follow/%40BhaviniBhug)
 
 <!--
